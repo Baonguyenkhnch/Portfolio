@@ -18,7 +18,7 @@ const About = () => {
                     <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
                     <div>
                         <div>
-                            <p> Hi Everyone, I am BaoNguyen from Ho Chi Minh, VietNam.</p>
+                            <p> Hi Everyone, I am Bao Nguyen from Ho Chi Minh, VietNam.</p>
 
                             <p> I am currently employed as a a Frontend dev .</p>
 
@@ -74,7 +74,7 @@ const About = () => {
                                             </div>
                                             <div className="info">
                                                 <p className="title"> Physics & Computer Science</p>
-                                                <p className="company">  University &  of   Science   (US)</p>
+                                                <p className="company">  University &  of   Science  (VNUHCM US)</p>
                                             </div>
                                         </div>
                                     </div>

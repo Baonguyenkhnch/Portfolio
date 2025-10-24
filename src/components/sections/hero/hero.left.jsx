@@ -38,7 +38,7 @@ const HeroLeft = () => {
                 options={{
                     strings: [
                         "Software Developer",
-                        "Freelancer",
+                        "UI Design",
                         "Frontend Developer",
                         "Open Source Contributor",
                     ],

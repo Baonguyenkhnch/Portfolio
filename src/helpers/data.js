@@ -1,7 +1,6 @@
-import nestImg from '../assets/project/nestjs.png';
-import nextjsImg from '../assets/project/nextjs.jpeg';
 
-import springMvcImg from '../assets/project/spring-mvc.png';
+
+import CalendarApp from '../assets/project/onecalendar.jpg'
 import blockchain from '../assets/project/blockchain-la-gi-1024x614.webp';
 import weatherApp from '../assets/project/3217eed6c29d48178481d11a1249c5a8.avif'
 export const APP_DATA = {
@@ -24,7 +23,7 @@ export const EXPERIENCES = [
         },
         duration: {
             vi: "tháng 9/2025 - Hiện tại",
-            en: "Sep 2024 - Present"
+            en: "Sep 2025 - Present"
         }
     },
     {
@@ -40,7 +39,7 @@ export const EXPERIENCES = [
         },
         duration: {
             vi: "Tháng 2/2025 - Tháng 7/2025",
-            en: "Feb 2022 - Jul 2024"
+            en: "Feb 2025 - Jul 2025"
         }
     },
     {
@@ -65,7 +64,7 @@ export const PROJECTS = [
         id: 1,
         imgPath: blockchain,
         title: "Crypto wallet",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        description: "A cryptocurrency wallet is a digital tool for storing, sending and receiving cryptocurrencies by managing public and private keys, which are like a “key” to access your assets on the blockchain.",
         githubLink: "https://github.com/Baonguyenkhnch/cryptoweb",
         demoLink: "https://cryptoweb-mauve.vercel.app/"
     },
@@ -79,28 +78,13 @@ export const PROJECTS = [
     },
     {
         id: 3,
-        imgPath: springMvcImg,
-        title: "Java Spring MVC",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html"
+        imgPath: CalendarApp,
+        title: "Calendar App",
+        description: "A calendar app is a digital tool that helps users organize and manage their time, appointments, tasks, and important events. Common features include setting appointments, creating reminders, syncing with multiple accounts, customizing the interface, viewing the calendar by month/week/day, and sharing the calendar with others.",
+        githubLink: "https://github.com/Baonguyenkhnch/calender-app/tree/main",
+        demoLink: "https://calender-app-git-main-baonguyenkhnchs-projects.vercel.app/"
     },
-    {
-        id: 4,
-        imgPath: nextjsImg,
-        title: "React ProMax with Next.js",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html"
-    },
-    {
-        id: 5,
-        imgPath: nestImg,
-        title: "Nest.js Basic",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/nestjs-voi-typescript-mongodb-sieu-de-64686ec6fb456bbb90663dd6.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/nestjs-voi-typescript-mongodb-sieu-de-64686ec6fb456bbb90663dd6.html"
-    },
+    
    
 ]
 
