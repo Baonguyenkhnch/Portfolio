@@ -1,7 +1,7 @@
 
 
 import CalendarApp from '../assets/project/onecalendar.jpg'
-import blockchain from '../assets/project/blockchain-la-gi-1024x614.webp';
+import QuoteApp from '../assets/project/quotesapp.jpg'
 import weatherApp from '../assets/project/3217eed6c29d48178481d11a1249c5a8.avif'
 export const APP_DATA = {
     INSTAGRAM_URL: "https://www.instagram.com/indisputably59/",
@@ -62,11 +62,11 @@ export const EXPERIENCES = [
 export const PROJECTS = [
     {
         id: 1,
-        imgPath: blockchain,
-        title: "Crypto wallet",
-        description: "A cryptocurrency wallet is a digital tool for storing, sending and receiving cryptocurrencies by managing public and private keys, which are like a “key” to access your assets on the blockchain.",
-        githubLink: "https://github.com/Baonguyenkhnch/cryptoweb",
-        demoLink: "https://cryptoweb-mauve.vercel.app/"
+        imgPath: QuoteApp,
+        title: "Quotes App",
+        description:  "quotes app is a mobile application that provides a collection of inspirational, motivational, or otherwise categorized sayings and text. Many of these apps allow users to either read and share pre-written quotes or create their own custom quote images by adding text to a background image, and they can be found on the Google Play Store and Apple App Store. ",
+        githubLink: "https://github.com/Baonguyenkhnch/quoteapp",
+        demoLink: "https://quoteapp-jet.vercel.app/"
     },
     {
         id: 2,
