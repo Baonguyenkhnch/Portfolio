@@ -74,7 +74,7 @@ const About = () => {
                                             </div>
                                             <div className="info">
                                                 <p className="title"> Physics & Computer Science</p>
-                                                <p className="company">  University &  of   Science  (VNUHCM US)</p>
+                                                <p className="company">  University   of   Science  (VNUHCM US)</p>
                                             </div>
                                         </div>
                                     </div>
