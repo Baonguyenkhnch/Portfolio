@@ -2,7 +2,7 @@
 const AppFooter = () => {
     return (
         <div className="text-center my-3">
-            Copyright © {new Date().getFullYear()} BaoNguyen  
+            Copyright © {new Date().getFullYear()}  by BaoNguyen  
         </div>
     )
 }
