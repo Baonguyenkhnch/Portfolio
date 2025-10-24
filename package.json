@@ -2,6 +2,9 @@
   "name": "react-portfolio-hoidanit",
   "private": true,
   "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "type": "module",
   "author": {
     "name": "Hỏi Dân IT vs Eric",
@@ -43,6 +46,5 @@
     "sass": "1.77.6",
     "vite": "5.4.9",
     "rollup": "^4.24.0"
-
   }
 }
