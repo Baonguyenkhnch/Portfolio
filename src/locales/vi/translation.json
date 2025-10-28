@@ -1,0 +1,22 @@
+{
+  "currency": {
+    "title": "Quy đổi tiền tệ",
+    "subtitle": "Chuyển đổi nhanh chóng giữa các loại tiền tệ",
+    "amount": "Số tiền",
+    "from": "Từ",
+    "to": "Chuyển sang",
+    "convert": "Chuyển đổi ngay",
+    "error_invalid": "⚠️ Vui lòng nhập số tiền hợp lệ!",
+    "error_not_found": "Không tìm thấy tỷ giá!",
+    "error_api": "Lỗi khi gọi API!",
+    "result": "Kết quả"
+  },
+  "weather": {
+    "title": "Dự báo thời tiết",
+    "input_placeholder": "Nhập tên thành phố",
+    "button": "Xem thời tiết",
+    "temperature": "Nhiệt độ",
+    "humidity": "Độ ẩm",
+    "wind": "Tốc độ gió"
+  }
+}

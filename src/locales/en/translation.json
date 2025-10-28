@@ -1,0 +1,22 @@
+{
+  "currency": {
+    "title": "Currency Converter",
+    "subtitle": "Quickly convert between different currencies",
+    "amount": "Amount",
+    "from": "From",
+    "to": "To",
+    "convert": "Convert Now",
+    "error_invalid": "⚠️ Please enter a valid amount!",
+    "error_not_found": "Exchange rate not found!",
+    "error_api": "Error fetching data!",
+    "result": "Result"
+  },
+  "weather": {
+    "title": "Weather Forecast",
+    "input_placeholder": "Enter a city name",
+    "button": "Check Weather",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "wind": "Wind Speed"
+  }
+}

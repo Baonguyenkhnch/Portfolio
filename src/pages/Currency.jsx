@@ -1,8 +1,9 @@
-import CurrencyConverter from "../components/CurrencyConverter";
+import React from "react";
+import CurrencyConverter from "../components/share/CurrencyConverter";
 
 export default function Currency() {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-slate-950">
+    <div className="min-h-screen bg-[#0b0f1a] text-white flex justify-center items-center">
       <CurrencyConverter />
     </div>
   );
