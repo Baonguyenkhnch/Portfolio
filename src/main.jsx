@@ -14,6 +14,7 @@ import Currency from './pages/Currency';
 import { AppContextProvider } from './components/context/app.context';
 import './i18n';
 
+
 const router = createBrowserRouter([
   {
     path: "/",

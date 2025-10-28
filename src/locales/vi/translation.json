@@ -47,6 +47,17 @@
   "error_invalid": "Vui lòng nhập số tiền hợp lệ lớn hơn 0.",
   "error_not_found": "Không tìm thấy tỷ giá phù hợp.",
   "error_api": "Không thể kết nối đến API tỷ giá."
-}
+},
+"currency": {
+    "title": "Chuyển đổi tiền tệ",
+    "subtitle": "Chuyển đổi tỷ giá dễ dàng và chính xác",
+    "amount": "Số tiền",
+    "to": "Chuyển sang",
+    "convert": "Chuyển đổi",
+    "result": "Kết quả chuyển đổi",
+    "error_invalid": "Vui lòng nhập số tiền hợp lệ lớn hơn 0.",
+    "error_not_found": "Không tìm thấy tỷ giá phù hợp.",
+    "error_api": "Không thể kết nối đến API tỷ giá."
+  }
 
 }

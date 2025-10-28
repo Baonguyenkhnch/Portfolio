@@ -47,6 +47,17 @@
   "error_invalid": "Please enter a valid amount greater than 0.",
   "error_not_found": "Exchange rate not found.",
   "error_api": "Unable to connect to the exchange rate API."
-}
+},
+ "currency": {
+    "title": "Currency Converter",
+    "subtitle": "Convert exchange rates easily and accurately",
+    "amount": "Amount",
+    "to": "Convert to",
+    "convert": "Convert",
+    "result": "Converted result",
+    "error_invalid": "Please enter a valid amount greater than 0.",
+    "error_not_found": "Exchange rate not found.",
+    "error_api": "Unable to connect to the exchange rate API."
+  }
 
 }

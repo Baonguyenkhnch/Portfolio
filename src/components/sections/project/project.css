@@ -1,0 +1,20 @@
+.project-card-view {
+  width: 100%;
+  max-width: 350px;
+  margin: 10px auto;
+  overflow: hidden;
+}
+
+.project-card-view img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.project-card {
+  margin-bottom: 30px;
+}
+
+body, html {
+  overflow-x: hidden;
+}
