@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import Spinner from "react-bootstrap/Spinner";
 import "../styles/Weather.scss";
+import { useTranslation } from "react-i18next";
 
 function WeatherPage() {
   const [weather, setWeather] = useState(null);
@@ -9,6 +10,8 @@ function WeatherPage() {
   const [query, setQuery] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
+  const { t } = useTranslation();
+
 
   const fetchWeather = async (latitude, longitude, cityName = "") => {
     try {
@@ -70,7 +73,8 @@ function WeatherPage() {
 
   return (
     <div className="weather-page">
-      <h1>🌤 Dự báo thời tiết</h1>
+      <h1>{t("weather.title")}</h1>
+
 
       <form onSubmit={handleSearch} className="weather-search">
         <input

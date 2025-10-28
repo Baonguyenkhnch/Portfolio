@@ -1,0 +1,23 @@
+{
+  "project": {
+    "title": {
+      "part1": "Các Dự Án Gần Đây",
+      "part2": "Của Tôi"
+    },
+    "subtitle": "Một vài dự án mà tôi đã thực hiện gần đây.",
+    "items": {
+      "1": {
+        "title": "Ứng dụng Trích Dẫn",
+        "desc": "Ứng dụng giúp bạn xem và tạo các câu trích dẫn truyền cảm hứng."
+      },
+      "2": {
+        "title": "Ứng dụng Dự báo Thời tiết",
+        "desc": "Ứng dụng web hiển thị thông tin thời tiết theo thời gian thực cho mọi thành phố."
+      },
+      "3": {
+        "title": "Lịch Kế hoạch",
+        "desc": "Ứng dụng giúp bạn lập kế hoạch và quản lý lịch trình hiệu quả."
+      }
+    }
+  }
+}

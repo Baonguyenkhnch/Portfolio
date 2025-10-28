@@ -52,11 +52,11 @@ function AppHeader() {
                         <NavLink className="nav-link" to="/project">{t("appHeader.project")}</NavLink>
                         <NavLink className="nav-link" to="/about">{t("appHeader.about")}</NavLink>
 
-                        {/* 🌤 Dự báo thời tiết */}
-                        <NavLink className="nav-link" to="/weather">🌤 Dự báo thời tiết</NavLink>
+                       
+                        <NavLink className="nav-link" to="/weather">{t("appHeader.Weather")}</NavLink>
 
-                        {/* 💱 Quy đổi tiền tệ */}
-                        <NavLink className="nav-link" to="/currency">💱 Quy đổi tiền tệ</NavLink>
+                     
+                        <NavLink className="nav-link" to="/currency">{t("appHeader.currency")}</NavLink>
                     </Nav>
 
                     {/* ⚙️ Chuyển theme + ngôn ngữ */}

@@ -1,0 +1,23 @@
+{
+  "project": {
+    "title": {
+      "part1": "My Recent",
+      "part2": "Works"
+    },
+    "subtitle": "Here are a few projects I've worked on recently.",
+    "items": {
+      "1": {
+        "title": "Quotes App",
+        "desc": "A mobile app that provides inspirational quotes and allows users to create custom quote images."
+      },
+      "2": {
+        "title": "Weather Forecast App",
+        "desc": "A web app that shows real-time weather updates for any city using OpenWeather API."
+      },
+      "3": {
+        "title": "Calendar Planner",
+        "desc": "A smart planner to organize tasks and manage schedules efficiently."
+      }
+    }
+  }
+}

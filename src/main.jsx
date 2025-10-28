@@ -10,7 +10,7 @@ import HomePage from './pages/home';
 import ProjectPage from './pages/project';
 import AboutPage from './pages/about';
 import WeatherPage from './pages/weather';
-import CurrencyPage from './pages/currency';
+import Currency from './pages/Currency';
 import { AppContextProvider } from './components/context/app.context';
 import './i18n';
 
@@ -37,7 +37,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/currency",
-        element: <CurrencyPage />,
+        element: <Currency />,
       },
     ],
   },

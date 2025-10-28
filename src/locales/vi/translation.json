@@ -1,22 +1,52 @@
 {
-  "currency": {
-    "title": "Quy đổi tiền tệ",
-    "subtitle": "Chuyển đổi nhanh chóng giữa các loại tiền tệ",
-    "amount": "Số tiền",
-    "from": "Từ",
-    "to": "Chuyển sang",
-    "convert": "Chuyển đổi ngay",
-    "error_invalid": "⚠️ Vui lòng nhập số tiền hợp lệ!",
-    "error_not_found": "Không tìm thấy tỷ giá!",
-    "error_api": "Lỗi khi gọi API!",
-    "result": "Kết quả"
+  "BaoNguyen": "Bảo Nguyễn",
+  "appHeader": {
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "about": "Giới thiệu",
+    "Weather": "Thời tiết",
+    "currency": "Tỷ giá"
+  },
+  "project": {
+    "title": {
+      "part1": "Những dự án",
+      "part2": "gần đây"
+    },
+    "subtitle": "Dưới đây là một vài dự án tôi đã thực hiện gần đây.",
+    "items": {
+      "quotes": {
+        "title": "Ứng dụng Trích dẫn",
+        "desc": "Ứng dụng cung cấp các câu nói truyền cảm hứng và động lực."
+      },
+      "weather": {
+        "title": "Ứng dụng Thời tiết",
+        "desc": "Hiển thị thông tin thời tiết, nhiệt độ và độ ẩm theo thời gian thực."
+      },
+      "calendar": {
+        "title": "Ứng dụng Lịch",
+        "desc": "Giúp người dùng quản lý thời gian, lịch hẹn và sự kiện hiệu quả."
+      }
+    }
   },
   "weather": {
-    "title": "Dự báo thời tiết",
-    "input_placeholder": "Nhập tên thành phố",
-    "button": "Xem thời tiết",
-    "temperature": "Nhiệt độ",
-    "humidity": "Độ ẩm",
-    "wind": "Tốc độ gió"
-  }
+    "title": "🌤 Thông tin thời tiết hôm nay",
+    "loading": "Đang tải dữ liệu thời tiết...",
+    "error": "Không thể tải dữ liệu thời tiết!",
+    "noLocation": "Không thể truy cập vị trí!",
+    "current": "Thời tiết hiện tại",
+    "temp": "Nhiệt độ",
+    "wind": "Gió"
+  },
+  "currency": {
+  "title": "Chuyển đổi tiền tệ",
+  "subtitle": "Chuyển đổi tỷ giá dễ dàng và chính xác",
+  "amount": "Số tiền",
+  "to": "Chuyển sang",
+  "convert": "Chuyển đổi",
+  "result": "Kết quả chuyển đổi",
+  "error_invalid": "Vui lòng nhập số tiền hợp lệ lớn hơn 0.",
+  "error_not_found": "Không tìm thấy tỷ giá phù hợp.",
+  "error_api": "Không thể kết nối đến API tỷ giá."
+}
+
 }

@@ -1,22 +1,52 @@
 {
-  "currency": {
-    "title": "Currency Converter",
-    "subtitle": "Quickly convert between different currencies",
-    "amount": "Amount",
-    "from": "From",
-    "to": "To",
-    "convert": "Convert Now",
-    "error_invalid": "⚠️ Please enter a valid amount!",
-    "error_not_found": "Exchange rate not found!",
-    "error_api": "Error fetching data!",
-    "result": "Result"
+  "BaoNguyen": "Bao Nguyen",
+  "appHeader": {
+    "home": "Home",
+    "project": "Projects",
+    "about": "About",
+    "Weather": "Weather",
+    "currency": "Currency"
+  },
+  "project": {
+    "title": {
+      "part1": "My Recent",
+      "part2": "Works"
+    },
+    "subtitle": "Here are a few projects I've worked on recently.",
+    "items": {
+      "quotes": {
+        "title": "Quotes App",
+        "desc": "A mobile app providing inspirational and motivational quotes."
+      },
+      "weather": {
+        "title": "Weather App",
+        "desc": "Displays live weather updates, temperature, and humidity data."
+      },
+      "calendar": {
+        "title": "Calendar App",
+        "desc": "Helps users manage their time, appointments, and events easily."
+      }
+    }
   },
   "weather": {
-    "title": "Weather Forecast",
-    "input_placeholder": "Enter a city name",
-    "button": "Check Weather",
-    "temperature": "Temperature",
-    "humidity": "Humidity",
-    "wind": "Wind Speed"
-  }
+    "title": "🌤 Today's Weather Info",
+    "loading": "Loading weather data...",
+    "error": "Unable to load weather data!",
+    "noLocation": "Location access denied!",
+    "current": "Current Weather",
+    "temp": "Temperature",
+    "wind": "Wind"
+  },
+  "currency": {
+  "title": "Currency Converter",
+  "subtitle": "Convert exchange rates easily and accurately",
+  "amount": "Amount",
+  "to": "Convert to",
+  "convert": "Convert",
+  "result": "Converted result",
+  "error_invalid": "Please enter a valid amount greater than 0.",
+  "error_not_found": "Exchange rate not found.",
+  "error_api": "Unable to connect to the exchange rate API."
+}
+
 }
