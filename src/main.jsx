@@ -9,7 +9,7 @@ import {
 import HomePage from './pages/home';
 import ProjectPage from './pages/project';
 import AboutPage from './pages/about';
-import WeatherPage from './pages/weather';
+import WeatherPage from './pages/Weather';
 import Currency from './pages/Currency';
 import { AppContextProvider } from './components/context/app.context';
 import './i18n';
