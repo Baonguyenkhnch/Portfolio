@@ -7,6 +7,19 @@
     "Weather": "Thời tiết",
     "currency": "Tỷ giá"
   },
+   "heroSection": {
+    "mySkill": "Kỹ năng của tôi",
+    "getCV": "Tải CV"
+  },
+  "introSection": {
+    "heading1": "Tôi là một lập trình viên đam mê, có kinh nghiệm ở cả frontend và backend.",
+    "heading2": "Tôi thích làm việc với",
+    "heading3": "và cũng thích khám phá các công nghệ mới như",
+    "heading4": "Spring Boot, Docker và Kubernetes.",
+    "heading5": "Tôi chủ yếu làm việc với",
+    "and": "and",
+    "about": "ABOUT ME"
+  },
   "project": {
     "title": {
       "part1": "Những dự án",
@@ -38,17 +51,17 @@
     "wind": "Gió"
   },
   "currency": {
-  "title": "Chuyển đổi tiền tệ",
-  "subtitle": "Chuyển đổi tỷ giá dễ dàng và chính xác",
-  "amount": "Số tiền",
-  "to": "Chuyển sang",
-  "convert": "Chuyển đổi",
-  "result": "Kết quả chuyển đổi",
-  "error_invalid": "Vui lòng nhập số tiền hợp lệ lớn hơn 0.",
-  "error_not_found": "Không tìm thấy tỷ giá phù hợp.",
-  "error_api": "Không thể kết nối đến API tỷ giá."
-},
-"currency": {
+    "title": "Chuyển đổi tiền tệ",
+    "subtitle": "Chuyển đổi tỷ giá dễ dàng và chính xác",
+    "amount": "Số tiền",
+    "to": "Chuyển sang",
+    "convert": "Chuyển đổi",
+    "result": "Kết quả chuyển đổi",
+    "error_invalid": "Vui lòng nhập số tiền hợp lệ lớn hơn 0.",
+    "error_not_found": "Không tìm thấy tỷ giá phù hợp.",
+    "error_api": "Không thể kết nối đến API tỷ giá."
+  },
+  "currency": {
     "title": "Chuyển đổi tiền tệ",
     "subtitle": "Chuyển đổi tỷ giá dễ dàng và chính xác",
     "amount": "Số tiền",
@@ -59,5 +72,4 @@
     "error_not_found": "Không tìm thấy tỷ giá phù hợp.",
     "error_api": "Không thể kết nối đến API tỷ giá."
   }
-
 }

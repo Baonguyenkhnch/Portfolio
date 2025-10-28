@@ -7,6 +7,19 @@
     "Weather": "Weather",
     "currency": "Currency"
   },
+   "introSection": {
+    "heading1": "Tôi là một lập trình viên đam mê, có kinh nghiệm về cả frontend và backend.",
+    "heading2": "Tôi yêu thích làm việc với",
+    "heading3": "và khám phá các công nghệ mới như",
+    "heading4": "Spring Boot, Docker và Kubernetes.",
+    "heading5": "Tôi chủ yếu làm việc với",
+    "and": "và",
+    "about": "GIỚI THIỆU"
+  },
+   "heroSection": {
+  "mySkill": "My Skill",
+  "getCV": "Get CV"
+},
   "project": {
     "title": {
       "part1": "My Recent",
