@@ -7,19 +7,19 @@
     "Weather": "Weather",
     "currency": "Currency"
   },
-   "introSection": {
-    "heading1": "Tôi là một lập trình viên đam mê, có kinh nghiệm về cả frontend và backend.",
-    "heading2": "Tôi yêu thích làm việc với",
-    "heading3": "và khám phá các công nghệ mới như",
-    "heading4": "Spring Boot, Docker và Kubernetes.",
-    "heading5": "Tôi chủ yếu làm việc với",
-    "and": "và",
-    "about": "GIỚI THIỆU"
+  "introSection": {
+    "heading1": "I am a passionate developer with experience in both frontend and backend.",
+    "heading2": "I love working with",
+    "heading3": "and also exploring new technologies like",
+    "heading4": "Spring Boot, Docker, and Kubernetes.",
+    "heading5": "I mainly work with",
+    "and": "and",
+    "about": "ABOUT ME"
   },
-   "heroSection": {
-  "mySkill": "My Skill",
-  "getCV": "Get CV"
-},
+  "heroSection": {
+    "mySkill": "My Skill",
+    "getCV": "Get CV"
+  },
   "project": {
     "title": {
       "part1": "My Recent",
@@ -51,17 +51,6 @@
     "wind": "Wind"
   },
   "currency": {
-  "title": "Currency Converter",
-  "subtitle": "Convert exchange rates easily and accurately",
-  "amount": "Amount",
-  "to": "Convert to",
-  "convert": "Convert",
-  "result": "Converted result",
-  "error_invalid": "Please enter a valid amount greater than 0.",
-  "error_not_found": "Exchange rate not found.",
-  "error_api": "Unable to connect to the exchange rate API."
-},
- "currency": {
     "title": "Currency Converter",
     "subtitle": "Convert exchange rates easily and accurately",
     "amount": "Amount",
@@ -72,5 +61,4 @@
     "error_not_found": "Exchange rate not found.",
     "error_api": "Unable to connect to the exchange rate API."
   }
-
 }

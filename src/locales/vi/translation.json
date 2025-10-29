@@ -5,9 +5,9 @@
     "project": "Dự án",
     "about": "Giới thiệu",
     "Weather": "Thời tiết",
-    "currency": "Tỷ giá"
+    "currency": "Chuyển đổi tiền tệ"
   },
-   "heroSection": {
+  "heroSection": {
     "mySkill": "Kỹ năng của tôi",
     "getCV": "Tải CV"
   },
@@ -17,8 +17,8 @@
     "heading3": "và cũng thích khám phá các công nghệ mới như",
     "heading4": "Spring Boot, Docker và Kubernetes.",
     "heading5": "Tôi chủ yếu làm việc với",
-    "and": "and",
-    "about": "ABOUT ME"
+    "and": "và",
+    "about": "GIỚI THIỆU"
   },
   "project": {
     "title": {
@@ -49,17 +49,6 @@
     "current": "Thời tiết hiện tại",
     "temp": "Nhiệt độ",
     "wind": "Gió"
-  },
-  "currency": {
-    "title": "Chuyển đổi tiền tệ",
-    "subtitle": "Chuyển đổi tỷ giá dễ dàng và chính xác",
-    "amount": "Số tiền",
-    "to": "Chuyển sang",
-    "convert": "Chuyển đổi",
-    "result": "Kết quả chuyển đổi",
-    "error_invalid": "Vui lòng nhập số tiền hợp lệ lớn hơn 0.",
-    "error_not_found": "Không tìm thấy tỷ giá phù hợp.",
-    "error_api": "Không thể kết nối đến API tỷ giá."
   },
   "currency": {
     "title": "Chuyển đổi tiền tệ",
